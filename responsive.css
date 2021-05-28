@@ -1,0 +1,408 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+  p{
+    font-size: 14px !important;
+  }
+  h1{
+   
+    line-height: 50px !important;
+  }
+  .banner{
+    padding:40px auto;
+    text-align: center;
+  }
+
+  .banner-text{
+    margin-top: 20px;
+  }
+
+  .newsletter_form input{
+    width:90%;
+    padding-left: 40px;
+  }
+
+  .banner-text h1{
+    font-size:32px;
+    margin:15px auto;
+  }
+
+  .banner-text p{
+   margin:15px auto;
+  }
+  .btn{
+    padding: 0;
+  }
+
+  .btn button{
+    width: auto;
+    padding: 10px 20px;
+        font-size: 14px;
+  }
+  .banner-text a{
+    font-size: 14px;
+  }
+  .logos-text h4{
+    font-weight: 600;
+  }
+
+  .section2-text h1{
+    text-align: center;
+    font-size: 32px;
+  }
+  .section2-text p{
+    text-align: center;
+    padding: 10px 0px;
+  }
+  .text1{
+    display: block;
+  }
+  .icon{
+        margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  .inner-text{
+    text-align: center;
+  }
+  .inner-text h1{
+    margin-bottom: 10px;
+  }
+  .icon2{
+        margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+  .icon3{
+        margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+   .inner-text2{
+    text-align: center;
+  }
+  .inner-text2 h1{
+    margin-bottom: 10px;
+  }
+   .inner-text3{
+    text-align: center;
+  }
+  .inner-text3 h1{
+    margin-bottom: 10px;
+  }
+  .section3-text h1{
+    text-align: center;
+    font-size: 32px;
+  }
+  .section3-para{
+    text-align: center;
+    padding:15px 0px;
+  }
+  .item-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .item h1{
+    text-align: center;
+    margin:0;
+  }
+  .item p{
+    text-align: center;
+    width: auto;
+    margin-bottom: 40px;
+  }
+  .item2-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .item2 h1{
+    text-align: center;
+    margin:0;
+  }
+  .item2 p{
+    text-align: center;
+    width: auto;
+    margin-bottom: 40px;
+  }
+  .item3-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .item3 h1{
+    text-align: center;
+    margin:0;
+  }
+  .item3 p{
+    text-align: center;
+    width: auto;
+    margin-bottom: 40px;
+  }
+  .section5-inner{
+    text-align: center;
+  }
+  .section5-inner h1{
+    font-size: 32px;
+    width: auto;
+  }
+  .section5-inner p{
+    width: auto;
+  }
+  .section6-inner h1{
+    font-size: 32px;
+  }
+  .section7-inner h1{
+    width: auto;
+    font-size: 32px;
+    text-align: center;
+  }
+  .section7-inner p{
+    width: auto;
+    text-align: center;
+  }
+  .feature1-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature1 h1{
+    text-align: center;
+    margin: 0;
+  }
+  .feature1 p{
+    text-align: center;
+     margin-bottom: 40px;
+  }
+  .feature2-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature2 h1{
+    text-align: center;
+     margin: 0;
+  }
+  .feature2 p{
+    text-align: center;
+     margin-bottom: 40px;
+  }
+  .feature3-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature3 h1{
+    text-align: center;
+     margin: 0;
+  }
+  .feature3 p{
+    text-align: center;
+     margin-bottom: 40px;
+  }
+   .feature4-img{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .feature4 h1{
+    text-align: center;
+     margin: 0;
+  }
+  .feature4 p{
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .btn3{
+    text-align: center;
+    margin:10px auto;
+  }
+  .section8-inner h1{
+    text-align: center;
+    font-size: 32px;
+  }
+  .section8-inner p{
+    text-align: center;
+  }
+  .form input{
+    width:60%;
+    padding-left: 100px;
+  }
+  .form button{
+    top: 2px;
+    margin-left: 2px;
+  }
+  .sec9-text h1{
+    font-size: 32px;
+    text-align: center;
+    padding-top:30px;
+  }
+  .sec9-text p{
+    text-align: center;
+  }
+  .star{
+    text-align: center;
+  }
+  .upper h4{
+    text-align: center;
+  }
+  .upper p{
+    text-align: center;
+  }
+ 
+  .txt h4{
+    margin-top: 30px;
+  }
+  .txt{
+    margin-left: 0;
+    margin-top: 5px;
+  }
+  .section10-text h1{
+    font-size: 32px;
+  }
+  .section10-text p{
+    text-align: center;
+  }
+  .ripa{
+    width: auto;
+  }
+  .accordion-button{
+    font-size: 18px;
+    padding-left: 15px;
+  }
+  .innertxt h1{
+    text-align: center;
+    font-size: 32px;
+  }
+  .innertxt p{
+    text-align: center;
+  }
+  .innerimg{
+    text-align: center;
+
+  }
+  .innerimg img{
+    margin-bottom: 5px;
+    padding-right:0px;
+  }
+  .features1 ul li{
+    display: block;
+    padding:15px 0px;
+  }
+  .logo h1{
+    margin:0;
+  }
+  .logo p{
+        margin: 0px 40px 40px 40px;
+  }
+   .logo2 h1{
+    margin:0;
+  }
+  .logo2 p{
+        margin: 0px 40px 40px 40px;
+  }
+   .logo3 h1{
+    margin:0;
+  }
+  .logo3 p{
+        margin: 0px 40px 40px 40px;
+  }
+   .logo4 h1{
+    margin:0;
+  }
+  .logo4 p{
+        margin: 0px 40px 40px 40px;
+  }
+   .logo5 h1{
+    margin:0;
+  }
+  .logo5 p{
+        margin: 0px 40px 40px 40px;
+  }
+   .logo6 h1{
+    margin:0;
+  }
+  .logo6 p{
+        margin: 0px 40px 40px 40px;
+  }
+  .section2{
+    padding: 50px 0px;
+  }
+  .section3{
+    padding: 50px 0px;
+  }
+  .section6{
+    padding: 50px 0px;
+  }
+  .section7{
+     padding: 50px 0px;
+  }
+  .section8{
+     padding: 50px 0px;
+  }
+  .section9{
+    padding: 50px 0px;
+  }
+  .section10{
+    padding: 50px 0px;
+  }
+  .last-section{
+     padding: 50px 0px;
+  }
+ 
+}
