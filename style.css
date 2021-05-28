@@ -91,7 +91,7 @@ body{
     color:#535d78 !important;
     border: none;
     outline: none;
-    padding-top: 8px;
+    
     border-radius: 30px;
     padding-left: 50px
 }
@@ -845,7 +845,7 @@ body{
     color:#535d78 !important;
     border: 1px solid #ebebeb;
     outline: none;
-    padding-top: 5px;
+   
     border-radius: 30px;
     padding-left: 120px
 }
