@@ -83,7 +83,7 @@ body{
   margin-bottom: 5px;
 }
 .newsletter_form input{
-    width: 60%;
+    width: 55%;
     height: 40px;
     background: #e2eaed;
     padding-left: 20px;
@@ -91,7 +91,7 @@ body{
     color:#535d78 !important;
     border: none;
     outline: none;
-   
+    padding-top: 8px;
     border-radius: 30px;
     padding-left: 50px
 }
@@ -99,7 +99,7 @@ body{
   color:#242f51 !important;
   font-size: 18px;
     line-height: 28px;
-        padding: 0 80px 0 10px;
+       
 }
 .newsletter_form button{
    position: absolute;
@@ -845,7 +845,7 @@ body{
     color:#535d78 !important;
     border: 1px solid #ebebeb;
     outline: none;
-   
+    padding-top: 5px;
     border-radius: 30px;
     padding-left: 120px
 }
@@ -863,8 +863,8 @@ body{
     border-radius: 30px;
     height: 35px;
     padding: 0px 22px;
-    top:3px;
-    margin-left: 3px;
+    top:2px;
+    margin-left: 2px;
     color: white !important
     
 }
